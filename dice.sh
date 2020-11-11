@@ -7,6 +7,8 @@ case $dicenum in
 			;;
 		2) echo "second face"
 			;;
+		3) echo "third face"
+			;;
 		*) echo "not among one to six"
 esac
 
